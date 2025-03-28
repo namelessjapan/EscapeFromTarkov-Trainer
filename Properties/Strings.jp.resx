@@ -874,7 +874,7 @@
     <value>Silent aim speed-factor</value>
   </data>
   <data name="PropertySize" xml:space="preserve">
-    <value>Size</value>
+    <value>大きさ</value>
   </data>
   <data name="PropertySkeletonThickness" xml:space="preserve">
     <value>骨格厚み</value>
